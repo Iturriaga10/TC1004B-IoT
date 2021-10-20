@@ -8,8 +8,8 @@ será enviado."""
 
 P_payaso = 122
 P_muñeca = 75
-payaso = int(input("¿Ingrese la cantidad de payasos que desea pedir?"))
-muñeca = int(input("¿Ingrese la cantidad de muñecas que desea pedir?"))
+payaso = int(input("¿Ingrese la cantidad de payasos que desea pedir? "))
+muñeca = int(input("¿Ingrese la cantidad de muñecas que desea pedir? "))
 
 total = P_payaso * payaso + P_muñeca * muñeca
 

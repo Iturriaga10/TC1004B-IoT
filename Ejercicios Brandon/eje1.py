@@ -1,8 +1,8 @@
-"""Escribe un programa en Python que almacene la cadena ¡Hola Mundo! en una variable y luego muestre por pan‐
-talla el contenido de la variable"""
+# Escribe un programa en Python que almacene la cadena ¡Hola Mundo! en una variable y
+# luego muestre por pantalla el contenido de la variable
 
 variable = "hola mundo"
-print (variable)
+print(variable)
 variable = "1234"
 print(variable)
 variable2 = "10.4"
