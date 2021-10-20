@@ -1,3 +1,9 @@
+'''
+Ejercicio 4
+Escribir un programa que pregunte una fecha en formato dd/mm/aaaa y muestre por pantalla 
+la misma fecha en formato dd de <mes> de aaaa donde <mes> es el nombre del mes.
+'''
+
 user_mes = raw_input("Escribe la fecha en el formato dd-mm-aaaa: ").split("-")
 print(user_mes)
 mes = int(user_mes[1])
